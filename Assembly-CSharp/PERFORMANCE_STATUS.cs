@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x020000AD RID: 173
+public enum PERFORMANCE_STATUS
+{
+	// Token: 0x04000BE6 RID: 3046
+	INACTIVE,
+	// Token: 0x04000BE7 RID: 3047
+	PENDING,
+	// Token: 0x04000BE8 RID: 3048
+	COMPLITED
+}

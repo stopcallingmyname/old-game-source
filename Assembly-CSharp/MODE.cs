@@ -1,0 +1,36 @@
+﻿using System;
+
+// Token: 0x020000A5 RID: 165
+public enum MODE
+{
+	// Token: 0x04000A21 RID: 2593
+	NULL = -1,
+	// Token: 0x04000A22 RID: 2594
+	BATTLE,
+	// Token: 0x04000A23 RID: 2595
+	CLASSIC,
+	// Token: 0x04000A24 RID: 2596
+	BUILD,
+	// Token: 0x04000A25 RID: 2597
+	ZOMBIE,
+	// Token: 0x04000A26 RID: 2598
+	CAPTURE,
+	// Token: 0x04000A27 RID: 2599
+	CONTRA,
+	// Token: 0x04000A28 RID: 2600
+	MELEE,
+	// Token: 0x04000A29 RID: 2601
+	SURVIVAL,
+	// Token: 0x04000A2A RID: 2602
+	M1945,
+	// Token: 0x04000A2B RID: 2603
+	PRORIV,
+	// Token: 0x04000A2C RID: 2604
+	CLEAR,
+	// Token: 0x04000A2D RID: 2605
+	TANK,
+	// Token: 0x04000A2E RID: 2606
+	SNOWBALLS,
+	// Token: 0x04000A2F RID: 2607
+	FFA
+}
